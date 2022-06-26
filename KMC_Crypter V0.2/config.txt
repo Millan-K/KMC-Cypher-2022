@@ -1,0 +1,8 @@
+Strenght of the Cypher (higher means bigger crypted file)
+4
+Generate Keys on the run ? (1 for yes / 0 for no )
+1
+Profondeur de la regénération de clé en cas d'echec (l'augmenter si la force du cypher est élevée)
+20
+Remove temps files after cipher ? (1 for yes / 0 for no )
+1
